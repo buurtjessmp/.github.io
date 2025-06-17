@@ -1,2 +1,1 @@
-# .github.io
-Test school
+Dit is een website voor de minecraft server BuurtjesSMP
